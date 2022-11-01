@@ -9,6 +9,8 @@
 | Server Setup  | [/server-setup](https://github.com/group27-endgame/server-setup)  | 95.216.139.199  |
 | Database  | [/database](https://github.com/group27-endgame/database)  | 95.216.139.199:1433 |
 
+<!--
+
 ## Table of Contents
 - [Advella Spring-boot API](#advella-spring-boot-api)
 - [Advella WebApp](#advella-webapp)
@@ -37,3 +39,4 @@
 ## Database
 
 ## Github Actions
+-->
