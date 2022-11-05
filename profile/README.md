@@ -4,7 +4,7 @@
 | ------------- | ------------- | ------------- |
 | Advella Spring-boot API  | [/advella-backend](https://github.com/group27-endgame/advella-backend)  | https://api.advella.popal.dev/swagger-ui.html#/  |
 | Advella WebApp  | [/advella-frontend-webapp](https://github.com/group27-endgame/advella-frontend-webapp)  | https://advella.popal.dev/  |
-| Advella Mobile App  | [/advella-frontend-mobile](https://github.com/group27-endgame/advella-frontend-mobile)  | X  |
+| Advella Mobile App  | [/advella-frontend-mobile](https://github.com/group27-endgame/advella-frontend-mobile)  | :no_entry_sign:  |
 | Advella Admin Panel  | [/advella-frontend-webapp-admin](https://github.com/group27-endgame/advella-frontend-webapp-admin)  | https://admin.advella.popal.dev/  |
 | Server Setup  | [/server-setup](https://github.com/group27-endgame/server-setup)  | 95.216.139.199  |
 | Database  | [/database](https://github.com/group27-endgame/database)  | 95.216.139.199:1433 |
